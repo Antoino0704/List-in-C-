@@ -2,7 +2,7 @@
 this library allows you to have a dynamic list to save your data
 
 # Installation
-download the folder list, for download folder in github  -> https://download-directory.github.io/
+download the folder list, for download folder in github  -> https://download-directory.github.io/ <br>
 insert it into your project and import
 
 # API
